@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad080380-4d9d-4390-9701-fdd74cba488f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1c69DULmY5BjVshpgTMOJNYg4bG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jsx2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad080380-4d9d-4390-9701-fdd74cba488f" name="Default Changelist" comment="" />
+      <created>1589838056117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589838056117</updated>
+      <workItem from="1589838061472" duration="8250000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="214" width="800" height="677" key="#Project_Structure" timestamp="1589838066970">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="555" y="214" width="800" height="677" key="#Project_Structure/0.27.1920.1053@0.27.1920.1053" timestamp="1589838066970" />
+    <state x="263" y="251" width="424" height="603" key="FileChooserDialogImpl" timestamp="1589846831940">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="263" y="251" width="424" height="603" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1589846831940" />
+    <state x="281" y="353" width="1372" height="547" key="new project wizard" timestamp="1589839158077">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="281" y="353" width="1372" height="547" key="new project wizard/0.27.1920.1053@0.27.1920.1053" timestamp="1589839158077" />
+    <state x="143" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1589840956055">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="143" y="257" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1589840956055" />
+  </component>
+</project>
